@@ -29,7 +29,7 @@ Game development 🎮, MySQL 📊, Embedded systems, C#
   <img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" alt="VS Studio" style="width:40px; height:40px; margin-right: 10px;"/>
   <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" style="width:40px; height:40px; margin-right: 10px;"/>
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" style="width:40px; height:40px; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width:40px; height:40px; margin-right: 10px;"/>
+  <img src="https://img.icons8.com/?size=48&id=62856&format=png&color=000000" alt="GitHub" style="width:40px; height:40px; margin-right: 10px;"/>
         
 </p>
 
