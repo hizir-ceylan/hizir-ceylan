@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 --> 
 Hello 👋 My name is Hızır Ceylan I'm a student from Kocaeli University 👨‍🎓.
 
-I have a interest in game development and embedded systems. Currently studying unity, godot, pixel art and C# 
+I have a interest in game development and embedded systems. Currently studying unity, godot, pixel art, embedded systems and C# 
         
 Currently Kocaeli University AI student club board member and member of RootRover team for Teknofest competition. 
 
 ## Skills 🏆
-Game development 🎮, MySQL 📊, Embedded systems, C#
+Game development 🎮, MySQL 📊, Embedded systems 🤖, C#
 
 ## Tools 🧰
 <p>
@@ -30,7 +30,7 @@ Game development 🎮, MySQL 📊, Embedded systems, C#
   <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" style="width:40px; height:40px; margin-right: 10px;"/>
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" style="width:40px; height:40px; margin-right: 10px;"/>
   <img src="https://img.icons8.com/?size=48&id=62856&format=png&color=000000" alt="GitHub" style="width:40px; height:40px; margin-right: 10px;"/>
-        
+  <img src="https://img.icons8.com/ios-filled/50/000000/adobe-creative-cloud.png" alt="Adobe Creative Cloud" style="width:40px; height:40px; margin-right: 10px;"/> 
 </p>
 
 ## Social Media 📱
