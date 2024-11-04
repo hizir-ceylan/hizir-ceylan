@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-Hello 👋 My name is Hızır Ceylan I'm graduated from Şehit Kemal Mutlu Fen Lisesi high school currently a student from Kocaeli University 👨‍🎓.
+My name is Hızır Ceylan I'm graduated from Şehit Kemal Mutlu Fen Lisesi high school currently a student from Kocaeli University 👨‍🎓.
 
 I have a interest in game development and embedded systems. Currently studying unity, godot, pixel art, embedded systems and C# 
         
